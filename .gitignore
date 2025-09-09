@@ -29,11 +29,22 @@ pip-selfcheck.json
 
 # Data directories
 
-data/raw/prcdnt/*
+data/raw/prcdnt/헌가/*
+data/raw/prcdnt/헌나/*
+data/raw/prcdnt/헌다/*
+data/raw/prcdnt/헌라/*
+data/raw/prcdnt/헌마/*
+data/raw/prcdnt/헌바/*
+
 data/raw/prcdnt_list
 
 !data/raw/.gitignore
-!data/raw/prcdnt/.gitignore
+!data/raw/prcdnt/헌가/.gitignore
+!data/raw/prcdnt/헌나/.gitignore
+!data/raw/prcdnt/헌다/.gitignore
+!data/raw/prcdnt/헌라/.gitignore
+!data/raw/prcdnt/헌마/.gitignore
+!data/raw/prcdnt/헌바/.gitignore
 !data/raw/prcdnt_list/.gitignore
 
 # Figures (generated images)
