@@ -1,0 +1,5 @@
+# Ignore all files recursively
+*
+
+# But keep .gitignore files
+!.gitignore
