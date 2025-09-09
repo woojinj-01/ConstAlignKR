@@ -29,12 +29,12 @@ pip-selfcheck.json
 
 # Data directories
 
-data/raw/prcdnt/헌가/
-data/raw/prcdnt/헌나/
-data/raw/prcdnt/헌다/
-data/raw/prcdnt/헌라/
-data/raw/prcdnt/헌마/
-data/raw/prcdnt/헌바/
+data/raw/prcdnt/헌가/*
+data/raw/prcdnt/헌나/*
+data/raw/prcdnt/헌다/*
+data/raw/prcdnt/헌라/*
+data/raw/prcdnt/헌마/*
+data/raw/prcdnt/헌바/*
 
 data/raw/prcdnt_list
 
