@@ -1,0 +1,58 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyd
+*.so
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.env
+*.venv
+pip-selfcheck.json
+
+# Data directories
+data/processed/
+
+data/raw/**
+
+!data/raw/.gitignore
+!data/raw/prcdnt/.gitignore
+!data/raw/prcdnt_list/.gitignore
+
+# Figures (generated images)
+figure/
+!figure/.gitkeep
+
+# Models
+models/before_tuned/bge-m3-korean
+models/before_tuned/kosimcse
+models/before_tuned/multilingual-e5-large
+
+!models/before_tuned/bge-m3-korean/.gitkeep
+!models/before_tuned/kosimcse/.gitkeep
+!models/before_tuned/multilingual-e5-large/.gitkeep
+
+models/fine_tuned/
+
+# Scripts caches (if any)
+scripts/__pycache__/
+
+# VSCode
+.vscode/
