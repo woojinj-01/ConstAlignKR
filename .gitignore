@@ -28,7 +28,7 @@ Thumbs.db
 pip-selfcheck.json
 
 # Test codes
-scripts/test
+scripts/test/*
 
 # Figures (generated images)
 figure/*
