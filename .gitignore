@@ -29,7 +29,7 @@ pip-selfcheck.json
 
 # Data directories
 
-data/raw/**
+data/raw/*
 
 !data/raw/.gitignore
 !data/raw/prcdnt/.gitignore
