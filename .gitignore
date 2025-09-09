@@ -28,7 +28,6 @@ Thumbs.db
 pip-selfcheck.json
 
 # Data directories
-data/processed/
 
 data/raw/**
 
